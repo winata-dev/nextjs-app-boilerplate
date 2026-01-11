@@ -5,7 +5,7 @@ module.exports = {
       type: 'list',
       name: 'componentType',
       message: 'What component do you want to create?',
-      choices: ['atoms', 'molecules', 'organisms', 'templates', 'features', 'providers']
+      choices: ['atoms', 'molecules', 'organisms', 'templates', 'providers']
     },
     {
       type: 'input',
